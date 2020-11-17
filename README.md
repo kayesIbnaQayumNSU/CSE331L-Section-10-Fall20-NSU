@@ -70,13 +70,13 @@ This course provides an introduction to the fundamental concept of microprocesso
   </tr>
   <tr>
     <th>Week 2</th>
-    <th><a href="">Lab 2</a></th> 
+    <th><a href="https://github.com/aaneloy/CSE331L-Section-10-Fall20-NSU/tree/main/Course%20Material/Slides/Lab%202">Lab 2</a></th> 
     <th>Introduce Basic MOV functions. </th>
     <th>11.11.2020</th>
   </tr>
   <tr>
     <th>Week 3</th>
-    <th><a href="">Lab 3</a></th> 
+    <th><a href="https://github.com/aaneloy/CSE331L-Section-10-Fall20-NSU/tree/main/Course%20Material/Slides/Lab%203">Lab 3</a></th> 
     <th>Basic arithmetic, logical functions and interrupt</th>
     <th>18.11.2020</th>
   </tr>
@@ -140,7 +140,7 @@ Some useful links are attached.
 ## _Submission Guideline_:
 <p align="central">
 
-1. Signup **Github** by using your **NSU** email address and verify the email.
+1. Signup **Github** by using your **NSU** email address and verify the email. Your Github Name should be - **NSU_ID - Last_Name** (e.g. - 1510839042-Neloy)
 2. Signup for **Github Education Pack**, make sure you have ![Pro](https://webapps.stackexchange.com/questions/123808/github-whats-this-pro-tag-on-my-profile) badge in your profile.  
 3. Install the required software. (For **Github Desktop**, see this - https://www.youtube.com/watch?v=dL6t3jAA05w)
 4. Open Git command prompt (*Git Bash Here*) and Clone this Repo (```git clone https://github.com/aaneloy/CSE331L-Section-10-Fall20-NSU```) and make it **private**.
